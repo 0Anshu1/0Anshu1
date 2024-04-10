@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @0Anshu1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Started learning full stack web development and java form september 30
+- 👀 I’m interested in Software Development,Web Development,Artificial Intelligence,Machine Learning
+- 🌱 I’m currently learning AI and ML (Would complete by July 2024)
+- 💞️ I’m looking to collaborate on 
+- 📫 Reach me through mail anshudu2004@gmail.com
+
 - 
 
 <!---
